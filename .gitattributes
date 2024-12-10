@@ -1,0 +1,8 @@
+# Configurar finales de línea para todos los archivos de texto
+* text=auto
+
+# Configurar finales de línea para archivos específicos
+*.js text
+*.css text
+*.html text
+
